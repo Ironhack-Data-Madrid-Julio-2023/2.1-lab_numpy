@@ -40,7 +40,7 @@ print(a.size)
 
 
 #8. Are you able to add a and b? Why or why not?
-a + b # No se puede ya que tienen diferentes dimensiones
+# a + b # No se puede ya que tienen diferentes dimensiones
 
 
 #9. Transpose b so that it has the same structure of a (i.e. become a 2x3x5 array). Assign the transposed array to varialbe "c".
@@ -62,7 +62,7 @@ e = a * c
 
 #13. Does e equal to a? Why or why not?
 
-a == e 
+# a == e 
 print("Sí son iguales")
 
 #14. Identify the max, min, and mean values in d. Assign those values to variables "d_max", "d_min", and "d_mean"
